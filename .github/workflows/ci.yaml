@@ -11,7 +11,7 @@ jobs:
 
     steps:
 
-      # Step 1 - Checkout THIS app repo
+      # Step 1 - Checkout THIS app repo 
       - name: Checkout app repo
         uses: actions/checkout@v3
 
